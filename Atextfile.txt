@@ -1,1 +1,2 @@
-the date may 8 2016
+this was the first line i added, the date may 8 2016.
+ok so this a edit to the file meanwhile ive added a readme to the master from github.
