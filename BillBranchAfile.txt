@@ -1,0 +1,5 @@
+So from here i have removed the other 3 branches thru my windows git which im using cause its easier.
+Ive deleted them thru github after syncing them up first.
+Follow that i have repulled the master then made this new billbranchA local rep.
+Created this file and will then commit and push it back up to the main.
+Let the master commit the changes and i should then be ok.
